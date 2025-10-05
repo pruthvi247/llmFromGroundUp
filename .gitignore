@@ -1,3 +1,18 @@
+### repo related
+*.pth
+*.egg
+*.egg-info
+dist
+build
+.eggs
+*.pkl
+model.*
+sms_spam_collection/*
+**.zip
+*.tar.gz
+*.log
+*.csv
+*.tsv
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
