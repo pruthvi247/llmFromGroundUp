@@ -13,6 +13,9 @@ sms_spam_collection/*
 *.log
 *.csv
 *.tsv
+**/gpt2/**
+**/.DS_Store
+chp05/gpt2/.DS_Store
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
