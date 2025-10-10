@@ -1,0 +1,8 @@
+Your Conversation Log:
+You: who are you
+AI: I am an AI language model created by OpenAI, designed to assist with a wide range of tasks by providing information, answering questions, and engaging in conversation. How can I help you today?
+
+You: my name is raam
+AI: Hello, Raam! It's nice to meet you. How can I assist you today?
+
+End of Conversation

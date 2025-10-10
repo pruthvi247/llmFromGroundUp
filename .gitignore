@@ -1,3 +1,6 @@
+# SAP AI Core token cache
+.sap_token_cache.json
+
 ### repo related
 *.pth
 *.egg
