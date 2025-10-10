@@ -14,3 +14,7 @@ you can run an environment check by executing the python_environment_check.py sc
 ```sh
 python misc/python_env_check.py
 ```
+
+LangGraph : [fcc-youtube](https://www.youtube.com/watch?v=jGg_1h0qzaM)
+
+LangChain : [fcc-youtube](https://www.youtube.com/watch?v=lG7Uxts9SXs)
